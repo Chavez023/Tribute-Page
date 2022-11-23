@@ -220,7 +220,6 @@ section:nth-child(2) {
   }
 
   #entry {
-    background-color: #FFAFCC;
     display: flex;
     justify-content: center;
 
