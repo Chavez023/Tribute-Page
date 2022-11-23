@@ -74,14 +74,14 @@ section:nth-child(1) {
 }
 #left {
   height: 100%;
-  width: 50%;
+  width: 50vw;
   display: flex;
   justify-content: start;
   align-items: center;
 }
 #right {
   height: 100%;
-  width: 50%;
+  width: 50vw;
   padding-top: 25vh;
 }
 #img-div-3 {
